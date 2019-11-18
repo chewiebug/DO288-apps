@@ -10,8 +10,8 @@ pipeline {
     }
 
     environment {
-        DEV_PROJECT = "chewiebug-books-dev"
-        STAGE_PROJECT = "chewiebug-books-stage"
+        DEV_PROJECT = "joerg-axa-books-dev"
+        STAGE_PROJECT = "joerg-axa-books-stage"
         APP_GIT_URL = "https://github.com/chewiebug/DO288-apps"
         NEXUS_SERVER = "http://nexus-common.apps.ocp-na1.prod.nextcle.com/repository/nodejs"
 
